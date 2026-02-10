@@ -1,0 +1,23 @@
+# macOS
+.DS_Store
+__MACOSX/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual env
+venv/
+flask_venv/
+.env
+
+# Flask
+instance/
+*.log
+
+# IDE
+.vscode/
+.idea/
+library_db.sqlite
